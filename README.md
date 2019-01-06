@@ -15,7 +15,7 @@ Since data cleaning and feature engineering is not my main goal in this project,
 
 
 ## Project Plan:
----
+
 - Exporatory data summary
 - Data Cleaning / Feature Engineering
 - Durations
