@@ -10,7 +10,7 @@ Nowadays most of the research in deep learning field is focused on unstructed da
 
 ### Dataset description
 
-
+I use a dataset from Kaggle competiton . You can download all provided data together with external datasets put by participants from this [link](http://files.fast.ai/part2/lesson14/rossmann.tgz)
 
 ## Project Plan:
 ---
