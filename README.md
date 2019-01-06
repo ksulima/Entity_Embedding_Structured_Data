@@ -22,3 +22,4 @@ Since data cleaning and feature engineering is not my main goal in this project,
 - Create features
 - Fast-check random forest model
 - Create embeddings for catergorical variables
+- Build fully connected neural networks to predict sales
