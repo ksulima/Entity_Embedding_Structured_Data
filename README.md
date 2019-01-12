@@ -23,3 +23,5 @@ Since data cleaning and feature engineering is not my main goal in this project,
 - Fast-check random forest model
 - Create embeddings for catergorical variables
 - Build fully connected neural networks to predict sales
+
+Each step is described in main notebook [Rossman](https://github.com/ksulima/Entity_Embedding_Structured_Data/blob/master/Rossman.ipynb)
