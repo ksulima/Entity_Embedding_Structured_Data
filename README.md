@@ -29,4 +29,4 @@ Each step is described in main notebook [Rossman](https://github.com/ksulima/Ent
 
 ### Conclusion
 
-Deep learning can be successfully applied to structured data. Entity Embeddings is a good method to represent categorical variables in a form applicable for neaural networks. Entity Embeddings allows to efficiently capture information from categorical variables without extensively extended feature space e.g. by one-hot encoding.
+Deep learning can be successfully applied to structured data. Entity Embeddings is a good method to represent categorical variables in a form applicable for neaural networks. Entity Embeddings allows to capture information from categorical variables without extensively extended feature space e.g. by one-hot encoding.
