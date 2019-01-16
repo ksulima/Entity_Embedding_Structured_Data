@@ -25,3 +25,8 @@ Since data cleaning and feature engineering is not my main goal in this project,
 - Build fully connected neural networks to predict sales
 
 Each step is described in main notebook [Rossman](https://github.com/ksulima/Entity_Embedding_Structured_Data/blob/master/Rossman.ipynb)
+
+
+### Conclusion
+
+Deep learning can be successfully applied to structured data. Entity Embeddings is a good method to represent categorical variables in a form applicable for neaural networks. Entity Embeddings allows to efficiently capture information from categorical variables without extensively extended feature space e.g. by one-hot encoding.
