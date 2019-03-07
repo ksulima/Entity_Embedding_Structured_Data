@@ -300,7 +300,7 @@ Non-trainable params: 0
 
 As a final step I esemble 7 NN and average results for better predictions. I land with kaggle score 0.11125. 
 <br>
-**This reflects the leaderboard final standings on 35. positon.**
+**This reflects the leaderboard final standings on 35th positon.**
 
 
 ### Conclusion
