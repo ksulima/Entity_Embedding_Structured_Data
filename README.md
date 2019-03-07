@@ -23,7 +23,7 @@ As authors says, we map categorical variables in a function approximation proble
 
 It can rapidly generate great results on structured data without having to resort to feature engineering or apply domain specific knowledge. The technique is relatively straight forward, and simply involves turning the categorical variables into numbers and then assigning each value an embedding vector:
 
-<img src="https://github.com/ksulima/Entity_Embedding_Structured_Data/blob/master/images/entity_schema.PNG" width="400" height="300">
+<img src="https://github.com/ksulima/Entity_Embedding_Structured_Data/blob/master/images/entity_schema.png" width="300" height="250">
 
 ## Project Steps
 
