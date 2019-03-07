@@ -9,8 +9,16 @@ Nowadays most of the research in deep learning field is focused on unstructured 
 
 ### Dataset description
 
-I use a dataset from Kaggle competiton. You can download all provided data together with external datasets put by participants from this [link](http://files.fast.ai/part2/lesson14/rossmann.tgz).
-Since data cleaning and feature engineering is not my main goal in this project, I based this part on implementation from 'Practical Deep Learning for Coders' and fast.ai library by Jeremy Howard. You can find details [here](https://www.fast.ai/2018/04/29/categorical-embeddings/)
+I use a dataset from Kaggle [Rossman competiton.](https://www.kaggle.com/c/rossmann-store-sales) You can download all provided data together with external datasets put by participants from this [link](http://files.fast.ai/part2/lesson14/rossmann.tgz).
+
+We are provided with historical sales data for 1,115 Rossmann stores. The task is to forecast the "Sales".
+Dataset consists of 6 relational tables with both cateogrical and numerical variables. The example table:
+
+
+
+
+
+Since data cleaning and feature engineering isn't the main goal in this project, I based this part on implementation from 'Practical Deep Learning for Coders' and fast.ai library by Jeremy Howard. You can find details [here.](https://www.fast.ai/2018/04/29/categorical-embeddings/)
 
 
 
