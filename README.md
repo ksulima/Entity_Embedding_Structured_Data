@@ -5,7 +5,7 @@ In this project my goal is to use neural networks to structured, time series dat
 
 ### Motivation
 
-Nowadays most of the research in deep learning field is focused on unstructed data, like computer vision, natural language processing, where neaural networks bring outstanding results comparing to others methods. Exploring deep learning to structured data is not in a academic spotlight, whereas lots of business problems and decisions are related to structured data. My plan is to apply neural networks to practical real-world problem.
+Nowadays most of the research in deep learning field is focused on unstructured data, like computer vision, natural language processing, where neural networks bring outstanding results comparing to others methods. Exploring deep learning to structured data is not in a academic spotlight, whereas lots of business problems and decisions are related to structured data. My plan is to apply neural networks to practical real-world problem.
 
 ### Dataset description
 
